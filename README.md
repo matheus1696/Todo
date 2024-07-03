@@ -19,19 +19,19 @@ Este é um projeto de lista de tarefas (ToDo) criado para fins de estudo e aperf
 
 ### Clone o repositório:
 
-- git clone https://github.com/seu-usuario/todo-list.git
+    git clone https://github.com/seu-usuario/todo-list.git
 
 ### Navegue até o diretório do projeto:
 
-- cd todo-list
+    cd todo-list
 
 ### Instale as dependências:
 
-- npm install
+    npm install
 
 ### Execute a aplicação:
 
-- npm start
+    npm start
 
 Abra o navegador e acesse http://localhost:3000 para ver a aplicação em execução.
 
