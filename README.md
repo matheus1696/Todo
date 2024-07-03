@@ -33,8 +33,6 @@ Este é um projeto de lista de tarefas (ToDo) criado para fins de estudo e aperf
 
     npm start
 
-Abra o navegador e acesse http://localhost:3000 para ver a aplicação em execução.
-
 ## Melhorias Futuras
 - Adicionar funcionalidade para remover tarefas.
 - Adicionar funcionalidade para marcar tarefas como concluídas.
